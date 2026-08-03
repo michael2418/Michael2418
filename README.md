@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael Vera, an <a href="hhtps://www.linkedin.com/in/michael-vera-05191341a">IT Professional</a>☺</h1>
+<h1>Hi, I'm Michael Vera, an <a href="hhtps://www.linkedin.com/in/michael-vera-05191341a" >IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
