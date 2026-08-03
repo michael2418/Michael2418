@@ -55,4 +55,4 @@
 [<img align="left" alt="frb_88| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/fatboii2418/
-[linkedin]: www.linkedin.com/in/michael-vera-05191341a
+[linkedin]: https://www.linkedin.com/in/michael-vera-05191341a
