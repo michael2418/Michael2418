@@ -54,5 +54,5 @@
 [<img align="left" alt="fernando-bolanos-20543113a LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="frb_88| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/frb_88
-[linkedin]: https://linkedin.com/in/fernando-bolanos-20543113a
+[instagram]: https://www.instagram.com/fatboii2418/
+[linkedin]: www.linkedin.com/in/michael-vera-05191341a
