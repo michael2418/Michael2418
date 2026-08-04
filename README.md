@@ -18,13 +18,13 @@
     ~The osTicket ticket lifecycle illustrates the complete process of managing a support request from initial submission to final resolution.
         
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/iamfern88/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/michael2418/Active-Directory-Azure-/blob/main/README.md)
     
-     ~Configuring Active Directory within Azure VMs involves setting up a Windows Server virtual machine in Microsoft Azure and promoting it to a domain controller to manage users, computers, and policies. Once configured, you can join other Azure VMs to the domain, apply Group Policy, and centrally manage authentication and access across your cloud-based network.
+     ~Configuring Active Directory in Azure Virtual Machines involves creating a Windows Server virtual machine and promoting it to a domain controller. This allows administrators to manage users, computers, groups, and policies from a centralized Active Directory environment.
         
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iamfern88/azure-network-protocols)
     
-     ~Network Security Groups (NSGs) in Azure act like virtual firewalls that control inbound and outbound traffic for your virtual machines and subnets. By configuring NSG rules and monitoring traffic, you can filter specific ports and protocols while inspecting network activity to better understand and secure communication within your environment.
+     ~Network Security Groups (NSGs) in Microsoft Azure act as virtual firewalls that control inbound and outbound traffic for virtual machines and subnets. By creating NSG rules, administrators can allow or block traffic based on ports and protocols.
 </h4>
 
 <h4>Core Technical Skills:<h/4>
