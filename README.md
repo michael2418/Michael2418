@@ -13,9 +13,9 @@
     
      ~After installing osTicket, the post-installation configuration is where you fine-tune the system to match your organization’s needs. This includes setting up departments, configuring email settings, creating help topics, adding staff accounts, and adjusting system preferences such as SLA's and time frames to ensure tickets are routed and managed efficiently.
     
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/iamfern88/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle](https://github.com/michael2418/osTicket---Ticket-Lifecycle/blob/main/README.md)
     
-     ~osTicket’s ticket lifecycle shows how a support request moves from creation to resolution within the system. A ticket is submitted by a user, assigned to the appropriate department or agent, updated as communication continues, and finally resolved and closed once the issue has been addressed.
+    ~The osTicket ticket lifecycle illustrates the complete process of managing a support request from initial submission to final resolution.
         
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/iamfern88/configure-ad)
