@@ -5,7 +5,8 @@
 <h4>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/iamfern88/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://[github.com/iamfern88/osticket-prereqs](https://github.com/michael2418/osTicket---Prerequisites-and-Installation/tree/main))
+  - [osTicket: Prerequisites and Installation]()
     
      ~ osTicket is an open-source help desk system that runs on a standard web server like Apache or Nginx, using PHP and a MySQL or MariaDB database to manage tickets. To install it, you simply upload the files to your server, set up a database, adjust a few permissions, and follow the step-by-step web setup to get everything up and running.
      
