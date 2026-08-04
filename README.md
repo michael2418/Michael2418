@@ -22,9 +22,6 @@
     
      ~Configuring Active Directory in Azure Virtual Machines involves creating a Windows Server virtual machine and promoting it to a domain controller. This allows administrators to manage users, computers, groups, and policies from a centralized Active Directory environment.
         
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iamfern88/azure-network-protocols)
-    
-     ~Network Security Groups (NSGs) in Microsoft Azure act as virtual firewalls that control inbound and outbound traffic for virtual machines and subnets. By creating NSG rules, administrators can allow or block traffic based on ports and protocols.
 </h4>
 
 <h4>Core Technical Skills:<h/4>
