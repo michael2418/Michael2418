@@ -28,21 +28,19 @@
   
   ___
   
--Windows 10/Windows Server Adminstration
+-Windows 11/Windows Server Adminstration
 
 -Microsoft Azure (Virtual Machines, VNets, NSGs)
 
--Active Directory Domain Services (AD DS)
+-Active Directory Domain Services
 
--DNS and basics networking (TCP/IP, ICMP, HTTP/S, SSH)
+-DNS and Basic Networking (TCP/IP, ICMP, HTTP/S, SSH)
 
 -Help Desk & Ticketing Systems (osTicket)
 
 -User and Group Management
 
 -Permissions and Access Control
-
--Network Troubleshooting and Packet Analysis (Wireshark)
 
 -Documantation and Technical Writing
   
