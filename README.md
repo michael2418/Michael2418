@@ -11,7 +11,7 @@
      
   - [osTicket: Post-Installation Configuration](https://github.com/michael2418/osTicket---Post-Install-Configuration/blob/main/README.md)
     
-     ~After installing osTicket, the post-installation configuration is where you fine-tune the system to match your organization’s needs. This includes setting up departments, configuring email settings, creating help topics, adding staff accounts, and adjusting system preferences to ensure tickets are routed and managed efficiently.
+     ~After installing osTicket, the post-installation configuration is where you fine-tune the system to match your organization’s needs. This includes setting up departments, configuring email settings, creating help topics, adding staff accounts, and adjusting system preferences such as SLA's and time frames to ensure tickets are routed and managed efficiently.
     
   - [osTicket: Ticket Lifecycle Examples](https://github.com/iamfern88/ticket-lifecycle)
     
